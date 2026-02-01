@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/sprites">
+        <file>scroogeNew.png</file>
+        <file>enemies.png</file>
+        <file>hud.png</file>
+        <file>itemsfinal.png</file>
+        <file>npcs.png</file>
+        <file>tileset.png</file>
+        <file>titlescreen.png</file>
+        <file>difficulty.png</file>
+        <file>levelSelection.png</file>
+        <file>bosses.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>theMoon.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>ducktalesicon.ico</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,43 @@
+Ricevimento:
+1) Sistemare Rope
+2) Colpo su Block
+3) Idee su Boxer & Rat
+
+HUD --> M WIP
+Sprites Octopus --> M DONE
+Sprites _climbing --> M DONE
+Sistemare camera;
+Aggiungere {SMALL_CHEST, BIG_CHEST, BATTERY} in Block --> R WIP
+Pogo: Scrooge deve poter salire sopra tutti i dislivelli --> R DONE
+Checkpoint --> V WIP
+Animazione danno subito da Scrooge
+Beagle Boys: Algoritmo di respawning, simile a punto 2 di Spawnable
+Algoritmo di respawning degli altri nemici --> V WIP
+Chiave livello inferiore --> V Chiave la prende, dobbiamo fare ora la condizione sull'accesso sotto
+Suoni: basta solo farne funzionare uno, poi si mettono --> R WIP
+Launchpad McQuack --> V WIP
+Gizmoduck --> V WIP 
+Spawnable (DONE):				1) Da capire comportamento e punti -> DONE ma meglio continuare ad approfondire
+								2) Algoritmo di spawning -> DONE, manca da posizionare tutti gli Spawnable che possono cadere
+								3) Diamanti piccoli? Come si può modificare il collider? -> DONE
+								4) Vedere altre cose da posizionare -> DONE
+								5) Aggiungere {TREASURE, KEY} -> DONE
+								Da aggiungere animazione di spawning e metodo migliore per le texture di quelli con un solo frame
+						
+Osservazione:
+			BRICKS respawnano dopo tot tempo, se esci dalla "vista"
+		    Boxer droppano con una buona probabilità ICE_CREAM
+			Anche i BRICK con probabilità inferiore droppano ICE_CREAM -> DONE
+			SMALL_CHEST livello massimo, tutto a sinistra: Chiave per l'ufo --> DONE
+			6 HP, i numeri dispari rendono giallo la sfera in HUD
+			ICE_CREAM NON DA PUNTI MA FA RECUPERARE 1 HP ->DONE
+			DIAMANTE GIALLO DA 10K-> DONE
+			DIAMANTE ROSSO 50K -> DONECASSA SOPRA A TUTTO SINISTRA DI PINKALIEN ->DONE
+			Treasure della cassone 1 milione -> DONE
+			DIAMANTINI 2K -> DONE
+			LA M è INVINCIBILITA'-> DONE
+			SE SALTI ABBASTANZA IN ALTO SI ATTIVANO
+						
+Osservazione su Swinging:
+			Swinging viene attivato se left_pressed/right_pressed mentre sei vicino un blocco
+			Se poi premi il pulsante viene sparato il blocco!!

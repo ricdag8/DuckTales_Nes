@@ -1,0 +1,153 @@
+{
+	"abstract" : true,
+	"backtrace" : 19,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"find_package",
+			"__find_dependency_common",
+			"find_dependency",
+			"_qt_internal_find_third_party_dependencies",
+			"include",
+			"_qt_internal_find_qt_dependencies"
+		],
+		"files" : 
+		[
+			"/usr/local/share/cmake/Modules/FindOpenGL.cmake",
+			"/Users/riccardodaguanno/Qt/6.8.2/macos/lib/cmake/Qt6/FindWrapOpenGL.cmake",
+			"/usr/local/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+			"/Users/riccardodaguanno/Qt/6.8.2/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/Users/riccardodaguanno/Qt/6.8.2/macos/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"/Users/riccardodaguanno/Qt/6.8.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/Users/riccardodaguanno/Qt/6.8.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+			"/Users/riccardodaguanno/Qt/6.8.2/macos/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 8
+			},
+			{
+				"command" : 1,
+				"file" : 8,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"file" : 7,
+				"parent" : 1
+			},
+			{
+				"command" : 5,
+				"file" : 7,
+				"line" : 43,
+				"parent" : 2
+			},
+			{
+				"file" : 6,
+				"parent" : 3
+			},
+			{
+				"command" : 6,
+				"file" : 6,
+				"line" : 45,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 145,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 125,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 7
+			},
+			{
+				"file" : 5,
+				"parent" : 8
+			},
+			{
+				"command" : 5,
+				"file" : 5,
+				"line" : 43,
+				"parent" : 9
+			},
+			{
+				"file" : 4,
+				"parent" : 10
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 35,
+				"parent" : 11
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 36,
+				"parent" : 12
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 125,
+				"parent" : 13
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 93,
+				"parent" : 14
+			},
+			{
+				"file" : 1,
+				"parent" : 15
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 16
+			},
+			{
+				"file" : 0,
+				"parent" : 17
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 815,
+				"parent" : 18
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "OpenGL::GL::@6890427a1f51a3e7e1df",
+	"imported" : true,
+	"local" : true,
+	"name" : "OpenGL::GL",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UNKNOWN_LIBRARY"
+}

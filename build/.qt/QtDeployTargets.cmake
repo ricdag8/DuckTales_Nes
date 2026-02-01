@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_DuckTales_FILE /Users/riccardodaguanno/Downloads/DuckTales-master-51/build/DuckTales)
+set(__QT_DEPLOY_TARGET_DuckTales_TYPE EXECUTABLE)

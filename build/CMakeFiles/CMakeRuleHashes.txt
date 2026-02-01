@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+24f981408c8b50ee02df69d6f74c5005 CMakeFiles/DuckTales_autogen
+5edcefa5d4a3bdf319e780daa7bba1ff DuckTales_autogen/EWIEGA46WW/qrc_resources.cpp
+ebe05687c9d61fde199907d7a077f03f DuckTales_autogen/timestamp

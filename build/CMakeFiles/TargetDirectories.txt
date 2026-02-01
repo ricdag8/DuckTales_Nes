@@ -1,0 +1,5 @@
+/Users/riccardodaguanno/Downloads/DuckTales-master-51/build/CMakeFiles/DuckTales.dir
+/Users/riccardodaguanno/Downloads/DuckTales-master-51/build/CMakeFiles/edit_cache.dir
+/Users/riccardodaguanno/Downloads/DuckTales-master-51/build/CMakeFiles/rebuild_cache.dir
+/Users/riccardodaguanno/Downloads/DuckTales-master-51/build/CMakeFiles/DuckTales_autogen_timestamp_deps.dir
+/Users/riccardodaguanno/Downloads/DuckTales-master-51/build/CMakeFiles/DuckTales_autogen.dir
